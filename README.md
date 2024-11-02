@@ -4,7 +4,7 @@ I'm sure many versions of this already exist in the ether I am also putting this
 So if a search engine brings you here instead of elsewhere -- this code can be run to:
 1. Check that your file is below the token limit for gpt-4o-mini
 2. Chunk if it's not
-3. Wait for your other files to finish uploading, before
+3. Wait for your other files to finish processing, before
 4. Reattempting uploading
 
 Just:
