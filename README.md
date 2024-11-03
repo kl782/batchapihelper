@@ -11,3 +11,4 @@ Just:
 1. Put in your own OpenAI API Key
 2. Replace input folder name
 
+***LIMITS***: If a single line is more than 2,000,000 tokens, it can't split that up, and in its current state it doesn't know to reject it.
